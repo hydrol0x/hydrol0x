@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hydrol0x
 - 🌱 I’m currently learning React/Web Dev, Rust, and programming language design
-- 📫 How to reach me mrjacobry@gmail.com
+- 📫 How to reach me: mrjacobry@gmail.com
+- Check out my work at [my website](https://www.jacobryabinky.com)
 
 <!---
 hydrol0x/hydrol0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
