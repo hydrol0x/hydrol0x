@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hydrol0x
-- 🌱 I’m currently learning React/Web Dev, Rust, and programming language design
+- 🌱 I’m currently learning React/Web Dev, scientific programming, Rust, and programming language design
 - 📫 How to reach me: mrjacobry@gmail.com
 - Check out my work at [my website](https://www.jacobryabinky.com)
 
