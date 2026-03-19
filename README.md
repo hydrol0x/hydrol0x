@@ -1,2 +1,2 @@
-- 🌱 I’m currently learning React/Web Dev, scientific programming, Rust, and programming language design
+- 🌱 I’m currently learning scientific programming, Rust, C, and programming language design
 - Contact at mrjacobry [at] gmail [dot] com
