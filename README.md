@@ -1,2 +1,1 @@
 - 🌱 I’m currently learning scientific programming, Rust, C, and programming language design
-- Contact at mrjacobry [at] gmail [dot] com
